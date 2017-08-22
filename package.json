@@ -1,0 +1,24 @@
+{
+  "name": "yaminafetch",
+  "version": "1.0.0",
+  "description": "fetch exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaminaBoghossian/yaminafetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "github",
+    "exercise"
+  ],
+  "author": "yaya <yamina.boghossian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaminaBoghossian/yaminafetch/issues"
+  },
+  "homepage": "https://github.com/YaminaBoghossian/yaminafetch#readme"
+}
