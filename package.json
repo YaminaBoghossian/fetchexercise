@@ -4,8 +4,7 @@
     "description": "fetch exercise",
     "main": "index.js",
     "scripts": {
-        "test": "node.test.js" //(fichier qui testera notre library)node est une commande pour bien
-            //préciser quon la teste via node
+        "test": "node.test.js"
     },
     "repository": {
         "type": "git",
