@@ -1,10 +1,10 @@
-//va tester notre librairie
+const fetch = require('./index');
 
-
-const fetch = require('./index.js');
-fetch('https://dog.ceo/api/breeds/list/all')
+fetch("https://dog.ceo/api/breeds/list/all")
     .then(function(answer) {
         console.log(answer);
+        process.exit(0);
     }).catch(function(err) {
         console.error(err);
+        process.exit(1);
     });
